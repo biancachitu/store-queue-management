@@ -1,0 +1,140 @@
+ Second 0
+Waiting Clients: [id:9, a: 3, s: 5][id:4, a: 4, s: 4][id:7, a: 4, s: 4][id:0, a: 5, s: 4][id:2, a: 6, s: 3][id:6, a: 6, s: 4][id:5, a: 7, s: 4][id:1, a: 9, s: 2][id:3, a: 9, s: 4][id:8, a: 9, s: 5]
+Queue 1:
+Queue 2:
+
+
+
+Second 1
+Waiting Clients: [id:9, a: 3, s: 5][id:4, a: 4, s: 4][id:7, a: 4, s: 4][id:0, a: 5, s: 4][id:2, a: 6, s: 3][id:6, a: 6, s: 4][id:5, a: 7, s: 4][id:1, a: 9, s: 2][id:3, a: 9, s: 4][id:8, a: 9, s: 5]
+Queue 1:
+Queue 2:
+
+
+
+Second 2
+Waiting Clients: [id:9, a: 3, s: 5][id:4, a: 4, s: 4][id:7, a: 4, s: 4][id:0, a: 5, s: 4][id:2, a: 6, s: 3][id:6, a: 6, s: 4][id:5, a: 7, s: 4][id:1, a: 9, s: 2][id:3, a: 9, s: 4][id:8, a: 9, s: 5]
+Queue 1:
+Queue 2:
+
+
+
+Second 3
+Waiting Clients: [id:4, a: 4, s: 4][id:7, a: 4, s: 4][id:0, a: 5, s: 4][id:2, a: 6, s: 3][id:6, a: 6, s: 4][id:5, a: 7, s: 4][id:1, a: 9, s: 2][id:3, a: 9, s: 4][id:8, a: 9, s: 5]
+Queue 1:[id:9, a: 3, s: 5];
+Queue 2:
+
+
+
+Second 4
+Waiting Clients: [id:0, a: 5, s: 4][id:2, a: 6, s: 3][id:6, a: 6, s: 4][id:5, a: 7, s: 4][id:1, a: 9, s: 2][id:3, a: 9, s: 4][id:8, a: 9, s: 5]
+Queue 1:[id:9, a: 3, s: 5];
+Queue 2:[id:4, a: 4, s: 4];[id:7, a: 4, s: 4];
+
+
+
+Second 5
+Waiting Clients: [id:2, a: 6, s: 3][id:6, a: 6, s: 4][id:5, a: 7, s: 4][id:1, a: 9, s: 2][id:3, a: 9, s: 4][id:8, a: 9, s: 5]
+Queue 1:[id:9, a: 3, s: 5];[id:0, a: 5, s: 4];
+Queue 2:[id:4, a: 4, s: 4];[id:7, a: 4, s: 4];
+
+
+
+Second 6
+Waiting Clients: [id:5, a: 7, s: 4][id:1, a: 9, s: 2][id:3, a: 9, s: 4][id:8, a: 9, s: 5]
+Queue 1:[id:9, a: 3, s: 5];[id:0, a: 5, s: 4];[id:6, a: 6, s: 4];
+Queue 2:[id:4, a: 4, s: 4];[id:7, a: 4, s: 4];[id:2, a: 6, s: 3];
+
+
+
+Second 7
+Waiting Clients: [id:1, a: 9, s: 2][id:3, a: 9, s: 4][id:8, a: 9, s: 5]
+Queue 1:[id:9, a: 3, s: 5];[id:0, a: 5, s: 4];[id:6, a: 6, s: 4];
+Queue 2:[id:4, a: 4, s: 4];[id:7, a: 4, s: 4];[id:2, a: 6, s: 3];[id:5, a: 7, s: 4];
+
+
+
+Second 8
+Waiting Clients: [id:1, a: 9, s: 2][id:3, a: 9, s: 4][id:8, a: 9, s: 5]
+Queue 1:[id:0, a: 5, s: 4];[id:6, a: 6, s: 4];
+Queue 2:[id:7, a: 4, s: 4];[id:2, a: 6, s: 3];[id:5, a: 7, s: 4];
+
+
+
+Second 9
+Waiting Clients: 
+Queue 1:[id:0, a: 5, s: 4];[id:6, a: 6, s: 4];[id:1, a: 9, s: 2];[id:3, a: 9, s: 4];
+Queue 2:[id:7, a: 4, s: 4];[id:2, a: 6, s: 3];[id:5, a: 7, s: 4];[id:8, a: 9, s: 5];
+
+
+
+Second 10
+Waiting Clients: 
+Queue 1:[id:0, a: 5, s: 4];[id:6, a: 6, s: 4];[id:1, a: 9, s: 2];[id:3, a: 9, s: 4];
+Queue 2:[id:7, a: 4, s: 4];[id:2, a: 6, s: 3];[id:5, a: 7, s: 4];[id:8, a: 9, s: 5];
+
+
+
+Second 11
+Waiting Clients: 
+Queue 1:[id:0, a: 5, s: 4];[id:6, a: 6, s: 4];[id:1, a: 9, s: 2];[id:3, a: 9, s: 4];
+Queue 2:[id:7, a: 4, s: 4];[id:2, a: 6, s: 3];[id:5, a: 7, s: 4];[id:8, a: 9, s: 5];
+
+
+
+Second 12
+Waiting Clients: 
+Queue 1:[id:6, a: 6, s: 4];[id:1, a: 9, s: 2];[id:3, a: 9, s: 4];
+Queue 2:[id:2, a: 6, s: 3];[id:5, a: 7, s: 4];[id:8, a: 9, s: 5];
+
+
+
+Second 13
+Waiting Clients: 
+Queue 1:[id:6, a: 6, s: 4];[id:1, a: 9, s: 2];[id:3, a: 9, s: 4];
+Queue 2:[id:2, a: 6, s: 3];[id:5, a: 7, s: 4];[id:8, a: 9, s: 5];
+
+
+
+Second 14
+Waiting Clients: 
+Queue 1:[id:6, a: 6, s: 4];[id:1, a: 9, s: 2];[id:3, a: 9, s: 4];
+Queue 2:[id:2, a: 6, s: 3];[id:5, a: 7, s: 4];[id:8, a: 9, s: 5];
+
+
+
+Second 15
+Waiting Clients: 
+Queue 1:[id:6, a: 6, s: 4];[id:1, a: 9, s: 2];[id:3, a: 9, s: 4];
+Queue 2:[id:5, a: 7, s: 4];[id:8, a: 9, s: 5];
+
+
+
+Second 16
+Waiting Clients: 
+Queue 1:[id:1, a: 9, s: 2];[id:3, a: 9, s: 4];
+Queue 2:[id:5, a: 7, s: 4];[id:8, a: 9, s: 5];
+
+
+
+Second 17
+Waiting Clients: 
+Queue 1:[id:1, a: 9, s: 2];[id:3, a: 9, s: 4];
+Queue 2:[id:5, a: 7, s: 4];[id:8, a: 9, s: 5];
+
+
+
+Second 18
+Waiting Clients: 
+Queue 1:[id:3, a: 9, s: 4];
+Queue 2:[id:5, a: 7, s: 4];[id:8, a: 9, s: 5];
+
+
+
+Second 19
+Waiting Clients: 
+Queue 1:[id:3, a: 9, s: 4];
+Queue 2:[id:8, a: 9, s: 5];
+
+
+
